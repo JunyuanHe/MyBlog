@@ -125,5 +125,7 @@ feed:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/JunyuanHe/JunyuanHe.github.io.git
-  branch: master
+  repo: 
+      github: git@github.com:JunyuanHe/JunyuanHe.github.io.git,master
+      coding: git@e.coding.net:junblog/junyuan/junyuan.git,master
+  # branch: master

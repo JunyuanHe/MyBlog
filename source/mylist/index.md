@@ -1,5 +1,6 @@
 ---
 layout: list
-group: mylist
+group: categories
 index: true
 ---
+

@@ -1,12 +1,13 @@
 ---
 layout: page
-title: 关于
+title: about
 meta:
-  header: []
+  header: [关于]
   footer: []
 sidebar: []
-valine:
-  placeholder: 有什么想对我说的呢？
+
 ---
 
 本站创建于2020年7月4日
+valine:
+  placeholder: 有什么想对我说的呢？
